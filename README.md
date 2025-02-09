@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mrfitbee
-- 👀 I’m interested in ...the metaverse,ai and emerging technologies.
+- 👀 I’m interested in ...the metaverse,ai,robotics and emerging technologies.
 - 🌱 I’m currently learning ...life ocasionally going through MERN stack and flutter
 - 💞️ I’m looking to collaborate on ...anything to improve the world
 - 📫 How to reach me ...js1111 on discord
